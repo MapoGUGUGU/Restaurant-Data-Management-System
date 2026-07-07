@@ -19,7 +19,7 @@ This project was created to simulate the core functionalities of a restaurant ma
 - Input validation and error handling
 
 ## 🛠️ Built With
-Language: C
-Compiler: GCC
-IDE: Dev-C++
-Data Storage: CSV Files
+- Language: C
+- Compiler: GCC
+- IDE: Dev-C++
+- Data Storage: CSV Files
