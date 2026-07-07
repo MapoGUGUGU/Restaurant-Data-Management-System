@@ -23,3 +23,21 @@ This project was created to simulate the core functionalities of a restaurant ma
 - Compiler: GCC
 - IDE: Dev-C++
 - Data Storage: CSV Files
+
+## 📚 Concepts Demonstrated
+- Functions
+- Structures (struct)
+- Arrays
+- File Handling
+- Sorting Algorithms
+- Searching Algorithms
+- Data Validation
+- Menu-Driven Interface
+
+## 🔮 Future Improvements
+- Graphical User Interface (GUI)
+- Database integration (MySQL/SQLite)
+- Order and billing management
+- Inventory management
+- Sales reports and analytics
+- Reservation system
